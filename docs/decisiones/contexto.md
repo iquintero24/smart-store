@@ -1,0 +1,1 @@
+Cada ADR es un archivo corto con cuatro secciones: contexto, decisión, razón y consecuencias. Ya tienes el contenido de los seis primeros en la tabla de tu documento. Los otros archivos (api-rest.md, modelo-datos.md) los creas cuando escribas el siguiente documento, no antes.
