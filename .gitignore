@@ -1,0 +1,19 @@
+#Secrretos y configuracion local 
+.env
+*.env.local
+
+#java maven
+target/
+*.class
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
+
+# IDEs y SO
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
