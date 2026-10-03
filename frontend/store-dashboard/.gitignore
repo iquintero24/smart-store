@@ -42,3 +42,6 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Clave de licencia PrimeUI (no se sube)
+src/app/primeui-license.ts
